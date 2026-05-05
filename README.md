@@ -1,11 +1,28 @@
-Titanic EDA — HexSoftwares Data Science Internship
+# Titanic EDA — HexSoftwares Data Science Internship
 
-This project is an exploratory data analysis of the Titanic dataset, completed during my internship at HexSoftwares.
+This project is an exploratory data analysis of the Titanic dataset, completed as part of my internship at HexSoftwares.
 
-Tools used: Python, Pandas, NumPy, Matplotlib, Seaborn
+The goal was to understand what factors influenced passenger survival using Python-based data analysis and visualization tools.
 
-Dataset: Titanic dataset from Kaggle — 891 passengers, features include age, gender, class, fare and survival status.
+## What this project covers
 
-Key Takeaway: Gender and passenger class were the two biggest survival factors. Women and first-class passengers survived the most.
+- Loading and inspecting a real-world dataset
+- Handling missing values and cleaning data
+- Visualizing distributions, correlations, and survival patterns
+- Drawing conclusions from charts and statistics
 
-Internship: HexSoftwares — Data Science Track
+## Tools used
+
+- Python, Pandas, NumPy, Matplotlib, Seaborn
+
+## Dataset
+
+Titanic dataset from Kaggle — 891 passengers, 12 features including age, gender, class, fare and survival status.
+
+## Key Takeaway
+
+Gender and passenger class were the two biggest factors in survival. Women and first-class passengers had significantly higher survival rates, while fare paid also showed a clear positive relationship with survival odds.
+
+## Internship
+
+HexSoftwares — Data Science Track
